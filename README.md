@@ -1,6 +1,11 @@
 # volar
 Volar | One Page Minimal Parallax Template
 
+<br><br>
+
+![example](https://github.com/nimadorostkar/volar/blob/main/screenshot2.png)
+![example](https://github.com/nimadorostkar/volar/blob/main/screenshot1.png)
+
 
 
 <br><br><br>
